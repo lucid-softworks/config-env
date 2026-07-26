@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/config-env",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Explicit environment-variable mappings for layered configuration.",
   "keywords": [
     "config",
